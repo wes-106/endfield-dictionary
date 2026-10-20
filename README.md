@@ -1,6 +1,6 @@
 # endfield-dictionary
 
-《明日方舟：終末地》遊戲相關素材與數據映射字典 (Mapping Dictionary)。本資料庫主要提供給「Endfield Gacha Tracker (終末地尋訪紀錄終端)」 的輔助工具，作為外部數據解析與圖像顯示的靜態依賴來源。
+《明日方舟：終末地》遊戲相關素材與數據映射字典 (Mapping Dictionary)。本資料庫主要功能為「Endfield Gacha Tracker (終末地尋訪紀錄終端)」 的輔助工具，作為外部數據解析與圖像顯示的靜態依賴來源。
 
 ---
 
