@@ -8,9 +8,9 @@
 
 本專案目前包含以下三個核心的 JSON 映射檔案：
 
-* **`avatar_mapping.json`**：收錄遊戲內角色名稱與其官方頭像圖片網址的對應關係[cite: 6]。圖片資源取自 [官方網站角色介紹頁面](https://endfield.gryphline.com/zh-tw/operator)。
-* **`weapon_mapping.json`**：收錄遊戲內武器名稱與其圖片網址的對應關係[cite: 4]。圖片資源取自 [森空島 Wiki (武器圖鑑)](https://wiki.skland.com/endfield/catalog?mainTypeId=1&subTypeId=2&header=0)。
-* **`banner_up_mapping.json`**：收錄各尋訪卡池名稱與其對應的 UP 角色或武器陣容[cite: 5]。資訊來源彙整自 [森空島 Wiki (角色卡池)](https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=1&gameEntryId=1676&header=0) 與 [森空島 Wiki (武器卡池)](https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=2&gameEntryId=1681&header=0)。
+* **`avatar_mapping.json`**：收錄遊戲內角色名稱與其官方頭像圖片網址的對應關係。圖片資源取自 [官方網站角色介紹頁面](https://endfield.gryphline.com/zh-tw/operator)。
+* **`weapon_mapping.json`**：收錄遊戲內武器名稱與其圖片網址的對應關係。圖片資源取自 [森空島 Wiki (武器圖鑑)](https://wiki.skland.com/endfield/catalog?mainTypeId=1&subTypeId=2&header=0)。
+* **`banner_up_mapping.json`**：收錄各尋訪卡池名稱與其對應的 UP 角色或武器陣容。資訊來源彙整自 [森空島 Wiki (角色卡池)](https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=1&gameEntryId=1676&header=0) 與 [森空島 Wiki (武器卡池)](https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=2&gameEntryId=1681&header=0)。
 
 ---
 
